@@ -1,7 +1,7 @@
 # autologin
 
 Deno script to autologin to a SOPHOS portal that runs on 172.16.0.30:8090.
-Checks https://captive.apple.com every 5s
+Checks `http://captive.apple.com` every 5s
 
 ## Running
 
